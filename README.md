@@ -15,7 +15,7 @@ My passion is building beautifully designed interfaces (mostly with React these 
 
 > In rough comfort-level order.
 
-_I honestly just found a list of badges, copied over the ones I've worked with, and put them in a very rough order of comfort/experience. This list does not have **EVERYTHING** I've worked with but it should provide a pretty good picture of my work history._
+_I honestly just found a list of badges, copied over the ones I've worked with, and put them in a very rough order of comfort/experience. This list **DOES NOT** have EVERYTHING I've worked with but it should provide a pretty good picture of my work history._
 <br/>
 
 ## 👨‍💻 Languages
