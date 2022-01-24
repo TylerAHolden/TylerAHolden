@@ -3,14 +3,22 @@
 **I'm a Full-Stack Developer working remotely in Texas for clients all over the world.**
 
 My passion is building beautifully designed interfaces (mostly with React these days).
+<br/>
+<br/>
+<br/>
+
+<hr/>
+<br/>
+<br/>
 
 ## 🚥 Wall of Badges
 
 > In rough comfort-level order.
 
 _I honestly just found a list of badges, copied over the ones I've worked with, and put them in a very rough order of comfort/experience. This list does not have **EVERYTHING** I've worked with but it should provide a pretty good picture of my work history._
+<br/>
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 
 <p>
     <a href="https://github.com/search?q=user%3TylerAHolden+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>    <a href="https://github.com/search?q=user%3TylerAHolden+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
@@ -23,13 +31,12 @@ _I honestly just found a list of badges, copied over the ones I've worked with, 
     <a href="https://github.com/search?q=user%3TylerAHolden+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3TylerAHolden+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3TylerAHolden+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-
+</p>
 I'm actually surprised it says I use more Javascript than Typescript!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerAHolden" alt="Tyler stats">
+<br/>
 
-</p>
-
-### 🧰 Frontend Frameworks and Libraries
+## 🧰 Frontend Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -59,8 +66,9 @@ I'm actually surprised it says I use more Javascript than Typescript!
 ... and many more. You get the gist.
 
 </p>
+<br/>
 
-### 🗄️ Databases Stuff
+## 🗄️ Database Stuff
 
 <p>
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=white"></a>
@@ -69,11 +77,12 @@ I'm actually surprised it says I use more Javascript than Typescript!
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="AmazonAWS" src ="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white"></a>
      <a href="#"><img alt="GraphQL" src ="https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white"></a>
-     <a href="#"><img alt="GraphQL" src ="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"></a>... and more.
+     <a href="#"><img alt="GraphQL" src ="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white"></a>... and more.
     
 </p>
+<br/>
 
-### ☁️ Cloud hosting
+## ☁️ Cloud hosting
 
 <p><a href="#"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
@@ -81,8 +90,9 @@ I'm actually surprised it says I use more Javascript than Typescript!
 <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>... and more. Thank Goodness the days of self-hosting are over!
 </p>
+<br/>
 
-### 💻 Software and tools
+## 💻 Software and tools
 
 <p>
 <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"></a>
