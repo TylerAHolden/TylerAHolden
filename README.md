@@ -32,7 +32,7 @@ _I honestly just found a list of badges, copied over the ones I've worked with, 
     <a href="https://github.com/search?q=user%3TylerAHolden+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3TylerAHolden+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 </p>
-I'm actually surprised it says I use more Javascript than Typescript!
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerAHolden" alt="Tyler stats">
 <br/>
 
